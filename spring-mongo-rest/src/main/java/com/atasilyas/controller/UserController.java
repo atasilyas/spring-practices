@@ -1,4 +1,4 @@
-package com.atasilyas.api;
+package com.atasilyas.controller;
 
 import com.atasilyas.model.User;
 import com.atasilyas.repository.UserRepository;
